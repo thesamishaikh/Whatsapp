@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/seach"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"
+        />
+    <item android:id="@+id/newgrolup"
+        android:title="New Group"
+        app:showAsAction="never"/>
+    <item android:id="@+id/newbroadcast"
+        android:title="New Broadcast"
+        app:showAsAction="never"/>
+    <item android:id="@+id/linkeddevices"
+        android:title="Linked Devices"
+        app:showAsAction="never"/>
+    <item android:id="@+id/staredmessages"
+    android:title="Stared Messages"
+    app:showAsAction="never"/>
+    <item android:id="@+id/settings"
+        android:title="Settings"
+        app:showAsAction="never"/>
+
+</menu>

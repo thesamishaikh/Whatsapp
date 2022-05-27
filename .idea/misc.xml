@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abdul SaMi/Desktop/Desktop Files/App Development/AndroidBatch2/Whatsapp/app/src/main/res/layout/activity_main.xml" value="0.22153846153846155" />
+        <entry key="..\:/Users/Abdul SaMi/Desktop/Desktop Files/App Development/AndroidBatch2/Whatsapp/app/src/main/res/layout/activity_splash.xml" value="0.18235542422963275" />
+        <entry key="..\:/Users/Abdul SaMi/Desktop/Desktop Files/App Development/AndroidBatch2/Whatsapp/app/src/main/res/layout/fragment_call.xml" value="0.18469431380932022" />
+        <entry key="..\:/Users/Abdul SaMi/Desktop/Desktop Files/App Development/AndroidBatch2/Whatsapp/app/src/main/res/layout/fragment_camera.xml" value="0.18469431380932022" />
+        <entry key="..\:/Users/Abdul SaMi/Desktop/Desktop Files/App Development/AndroidBatch2/Whatsapp/app/src/main/res/layout/fragment_chats.xml" value="0.2109375" />
+        <entry key="..\:/Users/Abdul SaMi/Desktop/Desktop Files/App Development/AndroidBatch2/Whatsapp/app/src/main/res/layout/fragment_status.xml" value="0.225" />
+        <entry key="..\:/Users/Abdul SaMi/Desktop/Desktop Files/App Development/AndroidBatch2/Whatsapp/app/src/main/res/menu/top_menus.xml" value="0.22153846153846155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
